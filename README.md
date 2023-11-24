@@ -4,5 +4,6 @@ Neste projeto, pude colocar em prática os conhecimentos adquiridos durante o cu
 
 ----
 ##### Links
-![Documentação Matplotlib](https://matplotlib.org/stable/gallery/lines_bars_and_markers/index.html)
+![Documentação Matplotlib](https://matplotlib.org/stable/gallery/lines_bars_and_markers/index.html) <br>
+![Documentação Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide) 
 
